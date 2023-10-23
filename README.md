@@ -1,7 +1,6 @@
-- 👋 Hi, I’m @harshthakur123
-- 👀 I’m interested in learning
-- 🌱 I’m currently learning DEVELEOPMENT IN ADVANCE COMPUTING
-- 💞️ I’m looking to collaborate on ...
+- 👋 Hi, I am Harsh Singh Thakur
+- 👀 I’m interested in learning new technologies
+- 🌱 Persuing Post Graduation Diploma in Advanced Computing at IACSD,Pune
 - 📫 How to reach me ...
 
 <!---
