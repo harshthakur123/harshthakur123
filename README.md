@@ -1,6 +1,6 @@
 - 👋 Hi, I am Harsh Singh Thakur
 - 👀 I’m interested in learning new technologies
-- 🌱 Persuing Post Graduation Diploma in Advanced Computing at IACSD,Pune
+- 🌱 CDAC Certified 
 - 📫 I look for the perfection.
 
 <!---
